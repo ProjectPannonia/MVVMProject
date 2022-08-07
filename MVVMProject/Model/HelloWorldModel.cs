@@ -35,6 +35,7 @@ namespace MVVMProject.Model
             };
             return repositoryData;
         }
+
         /// <summary>
         /// Concetenate the information from the list into a fully formed sentence.
         /// </summary>
